@@ -16,7 +16,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<p>Corgis Conquer Cancer eBook111</p>",
+            "text": "<p>Corgis Conquer Cancer eBook</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
