@@ -21,6 +21,11 @@ body {
   --hover-transition-timing: ease-out;
   --surface-transition-duration: 0.3s;
   --surface-transition-timing: var(--ease-out-quad);
+  /* brand helpers */
+  --brand-teal: #008C8C;
+  --brand-teal-dark: #006E6E;
+  --brand-green: #1B3F3C;
+  --brand-yellow: #F9C80E;
 }
 
 html {

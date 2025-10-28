@@ -1,0 +1,54 @@
+{
+  "sections": {
+    "banner": {
+      "type": "hero",
+      "blocks": {
+        "heading": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>About the Book<\/h1>",
+            "width": "fit-content",
+            "alignment": "left",
+            "type_preset": "h2",
+            "color": "var(--color-foreground-heading)"
+          }
+        }
+      },
+      "block_order": ["heading"],
+      "settings": {
+        "media_type_1": "image",
+        "image_1": "",
+        "content_direction": "column",
+        "section_width": "page-width",
+        "section_height": "small",
+        "color_scheme": "scheme-1",
+        "toggle_overlay": true,
+        "overlay_color": "#0E2E2C33",
+        "padding-block-start": 72,
+        "padding-block-end": 48
+      }
+    },
+    "content": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Corgis Conquer Cancer is a heartwarming, educational ebook designed for families. Learn the story behind the project, meet the author and illustrator, and see how your purchase supports cancer research.<\/p>",
+            "type_preset": "rte"
+          }
+        }
+      },
+      "block_order": ["text"],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "section_width": "page-width",
+        "padding-block-start": 24,
+        "padding-block-end": 48
+      }
+    }
+  },
+  "order": ["banner", "content"]
+}
+
+
